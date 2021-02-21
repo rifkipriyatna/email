@@ -1,6 +1,6 @@
 <?php>
 ($_POST['kirim']){
-	$admin = 'rifkipriyatna@gmail.com'; //ganti email dg email admin 
+	$admin = 'rifkipriyatna86@gmail.com'; //ganti email dg email admin 
 i(priyatnarifki@gmail.com)
 	
 	$nama	= htmlentities($_POST['nama']);
