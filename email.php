@@ -1,7 +1,7 @@
 <?php>
 ($_POST['kirim']){
-	$admin = 'priyatnarifki@gmail.com'; //ganti email dg email admin 
-i(email penerima pesan)
+	$admin = 'rifkipriyatna@gmail.com'; //ganti email dg email admin 
+i(priyatnarifki@gmail.com)
 	
 	$nama	= htmlentities($_POST['nama']);
 	$email	= htmlentities($_POST['email']);
